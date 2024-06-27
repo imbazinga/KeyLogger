@@ -5,7 +5,6 @@ Keylogger a malicious program designed to track and record every keystroke on a 
 * The keylogger runs in the background, silently capturing all key presses.
 * It records each key along with a timestamp and saves the data to a text file (keylog.txt).
 # Installation:
-# 1) For Windows:
 * Install the pynput library using pip:
 ```bash
 pip install pynput

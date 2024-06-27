@@ -6,15 +6,6 @@ Keylogger a malicious program designed to track and record every keystroke on a 
 * It records each key along with a timestamp and saves the data to a text file (keylog.txt).
 # Installation:
 # 1) For Windows:
-* Make sure you have Python installed on your Windows system.
-* Download the zip file.
-* Open the Command Prompt or PowerShell.
-* Install the pynput library using pip:
-```bash
-pip install pynput
-```
-* Then run the .exe file to execute the program
-# 2) For Linux:
 * Install the pynput library using pip:
 ```bash
 pip install pynput

